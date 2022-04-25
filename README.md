@@ -1,15 +1,15 @@
-<h1 align="left">Hi, <img src="https://raw.githubusercontent.com/srikanta30/srikanta30/main/assets/wave.gif" width="30px"> I'm Dinesh Sharma</h1>
+<h1 align="left">Hi, <img src="https://raw.githubusercontent.com/srikanta30/srikanta30/main/assets/wave.gif" width="30px"> I'm Navneet Kumar</h1>
 
-<h4 align="left">An aspiring full stack developer with a specialization in 💻 MERN stack from Bhagalpur, Bihar (India). Keenly interested in problem-solving and making user-centric products, self-motivated and curious. Looking forward to honing my skills in a challenging work environment.</h4>
+<h4 align="left">An aspiring full stack developer. Keenly interested in problem-solving and making user-centric products, self-motivated and curious. Looking forward to honing my skills in a challenging work environment.</h4>
 <img align='right' src="https://c.tenor.com/aD7y5Tg9BzwAAAAC/web-design-modern-web-gif.gif" width="230">
 
 
 <p align="left">
   🌱 I love to code, build things & solve problems. <br/>
    🤝 I am open to collaborate on any project that is impactful and makes the world a better place. <br/>
-   ⚡ I like to watch web series & movies, I also follow cricket.<br/>
+   ⚡ I like to watch web series & movies.<br/>
    🔭 I’m currently working on [My Portfolio].<br/>
-  🗺️ Want to know more? Check out my portfolio <a href="https://dineshsharma.netlify.app/"> here 🔗</a>. <br/>
+  🗺️ Want to know more? Check out my portfolio <a href="https://navneet-kumar.vercel.app/"> here 🔗</a>. <br/>
 </p>
 
 <h3 align="left">My Tools & Tech Stack 🛠️:</h3>
@@ -26,10 +26,9 @@
   <h3 align="left">Connect with me 👇:</h3>
 
   <p align="left">
-    <a href="mailto:dinoweblog@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-    <a href="https://in.linkedin.com/in/dino-web"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://twitter.com/imD1nesh"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-    <a target="_blank" href="https://dineshsharma.netlify.app"> <img src="https://img.shields.io/badge/-Portfolio-FFCC1D?style=for-the-badge&logo=Apostrophe&logoColor=white"></a>
+    <a href="mailto:navneetharsh3@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+    <a href=""><img src="https://www.linkedin.com/in/navneet-kumar-77186721b/"></a>
+   <a target="_blank" href="https://navneet-kumar.vercel.app"> <img src="https://img.shields.io/badge/-Portfolio-FFCC1D?style=for-the-badge&logo=Apostrophe&logoColor=white"></a>
 
 </p>
 
