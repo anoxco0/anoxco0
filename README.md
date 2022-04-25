@@ -1,22 +1,50 @@
-<h1 align="center">Hi 👋, I'm Navneet Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="left">Hi, <img src="https://raw.githubusercontent.com/srikanta30/srikanta30/main/assets/wave.gif" width="30px"> I'm Dinesh Sharma</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anoxco0&label=Profile%20views&color=0e75b6&style=flat" alt="anoxco0" /> </p>
+<h4 align="left">An aspiring full stack developer with a specialization in 💻 MERN stack from Bhagalpur, Bihar (India). Keenly interested in problem-solving and making user-centric products, self-motivated and curious. Looking forward to honing my skills in a challenging work environment.</h4>
+<img align='right' src="https://c.tenor.com/aD7y5Tg9BzwAAAAC/web-design-modern-web-gif.gif" width="230">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anoxco0" alt="anoxco0" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/navneet-kumar-77186721b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/navneet-kumar-77186721b/" height="30" width="40" /></a>
+  🌱 I love to code, build things & solve problems. <br/>
+   🤝 I am open to collaborate on any project that is impactful and makes the world a better place. <br/>
+   ⚡ I like to watch web series & movies, I also follow cricket.<br/>
+   🔭 I’m currently working on [My Portfolio].<br/>
+  🗺️ Want to know more? Check out my portfolio <a href="https://dineshsharma.netlify.app/"> here 🔗</a>. <br/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<h3 align="left">My Tools & Tech Stack 🛠️:</h3>
+<p align="left">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anoxco0&show_icons=true&locale=en&layout=compact" alt="anoxco0" /></p>
+  
+  <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-Redux-764abc?style=flat&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white"> <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/redis-CC0000.svg?style=flat&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"> <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"> <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anoxco0&show_icons=true&locale=en" alt="anoxco0" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anoxco0&" alt="anoxco0" /></p>
+
+
+
+  <h3 align="left">Connect with me 👇:</h3>
+
+  <p align="left">
+    <a href="mailto:dinoweblog@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+    <a href="https://in.linkedin.com/in/dino-web"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://twitter.com/imD1nesh"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+    <a target="_blank" href="https://dineshsharma.netlify.app"> <img src="https://img.shields.io/badge/-Portfolio-FFCC1D?style=for-the-badge&logo=Apostrophe&logoColor=white"></a>
+
+</p>
+
+<!-- <p align="left">
+  Show ❤️ by starring repositories you find useful.
+  <br />
+  Also, you can ⭐ or fork the repositories if you want to add a new feature or improve them.
+  <br/>
+  <br/>
+</p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinoweblog-github-username&color=8e8cd8" alt="dinoweblog" /> </p> -->
+
+
+<p align="center"  height= "300px"> 
+   <img height= "250px" width ="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinoweblog&theme=react&layout=compact" />
+   <img height= "250px" width ="46%" src="https://github-readme-stats.vercel.app/api?username=dinoweblog&theme=react&show_icons=true&include_all_commits=true"/>
+       
+ </p>
