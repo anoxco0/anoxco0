@@ -32,15 +32,6 @@
 
 </p>
 
-<!-- <p align="left">
-  Show ❤️ by starring repositories you find useful.
-  <br />
-  Also, you can ⭐ or fork the repositories if you want to add a new feature or improve them.
-  <br/>
-  <br/>
-</p> -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinoweblog-github-username&color=8e8cd8" alt="dinoweblog" /> </p> -->
-
 
 <p align="center"  height= "300px"> 
    <img height= "250px" width ="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinoweblog&theme=react&layout=compact" />
