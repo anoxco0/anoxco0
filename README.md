@@ -1,4 +1,4 @@
-<h1 align="left">Hi, <img src="https://raw.githubusercontent.com/srikanta30/srikanta30/main/assets/wave.gif" width="30px" height="30px"> I'm Navneet Kumar</h1>
+<h1 align="left">Hi, <img src="https://raw.githubusercontent.com/srikanta30/srikanta30/main/assets/wave.gif" width="50px" height="50px"> I'm Navneet Kumar</h1>
 
 <h4 align="left">An aspiring full stack developer. Keenly interested in problem-solving and making user-centric products, self-motivated and curious. Looking forward to honing my skills in a challenging work environment.</h4>
 <img align='right' src="https://c.tenor.com/aD7y5Tg9BzwAAAAC/web-design-modern-web-gif.gif" width="230">
@@ -32,9 +32,8 @@
 
 </p>
 
-
 <p align="center"  height= "300px"> 
-   <img height= "250px" width ="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinoweblog&theme=react&layout=compact" />
-   <img height= "250px" width ="46%" src="https://github-readme-stats.vercel.app/api?username=dinoweblog&theme=react&show_icons=true&include_all_commits=true"/>
+   <img height= "250px" width ="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoxco0&theme=react&layout=compact" />
+   <img height= "250px" width ="46%" src="https://github-readme-stats.vercel.app/api?username=anoxco0&theme=react&show_icons=true&include_all_commits=true"/>
        
  </p>
