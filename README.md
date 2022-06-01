@@ -1,4 +1,4 @@
-<h1 align="left">Hi, <img src="https://raw.githubusercontent.com/srikanta30/srikanta30/main/assets/wave.gif" width="10px"> I'm Navneet Kumar</h1>
+<h1 align="left">Hi, <img src="https://raw.githubusercontent.com/srikanta30/srikanta30/main/assets/wave.gif" width="30px" height="30px"> I'm Navneet Kumar</h1>
 
 <h4 align="left">An aspiring full stack developer. Keenly interested in problem-solving and making user-centric products, self-motivated and curious. Looking forward to honing my skills in a challenging work environment.</h4>
 <img align='right' src="https://c.tenor.com/aD7y5Tg9BzwAAAAC/web-design-modern-web-gif.gif" width="230">
@@ -27,7 +27,7 @@
 
   <p align="left">
     <a href="mailto:navneetharsh3@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-    <a href=""><img src="https://www.linkedin.com/in/navneet-kumar-77186721b/"></a>
+    <a href="https://www.linkedin.com/in/navneet-kumar-77186721b/"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a target="_blank" href="https://navneet-kumar.vercel.app"> <img src="https://img.shields.io/badge/-Portfolio-FFCC1D?style=for-the-badge&logo=Apostrophe&logoColor=white"></a>
 
 </p>
